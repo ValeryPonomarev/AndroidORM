@@ -1,8 +1,8 @@
-package easysales.androidorm.Repository;
+package com.easysales.androidorm.Repository;
 
 import android.database.Cursor;
 
-import easysales.androidorm.Entity.Entity;
+import com.easysales.androidorm.Entity.Entity;
 
 import java.util.List;
 

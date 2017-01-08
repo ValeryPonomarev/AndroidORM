@@ -1,4 +1,4 @@
-package easysales.androidorm;
+package com.easysales.androidorm;
 
 import org.junit.Test;
 

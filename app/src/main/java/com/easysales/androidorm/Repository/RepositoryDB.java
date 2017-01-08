@@ -1,4 +1,4 @@
-package easysales.androidorm.Repository;
+package com.easysales.androidorm.Repository;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -11,9 +11,9 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-import easysales.androidorm.Entity.Entity;
-import easysales.androidorm.Entity.IEntityFactory;
-import easysales.androidorm.Entity.IEntityFactoryBuilder;
+import com.easysales.androidorm.Entity.Entity;
+import com.easysales.androidorm.Entity.IEntityFactory;
+import com.easysales.androidorm.Entity.IEntityFactoryBuilder;
 
 /**
  * Created by drmiller on 05.07.2016.

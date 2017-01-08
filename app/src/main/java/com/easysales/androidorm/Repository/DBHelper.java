@@ -1,4 +1,4 @@
-package easysales.androidorm.Repository;
+package com.easysales.androidorm.Repository;
 
 import android.content.Context;
 import android.database.Cursor;

@@ -1,6 +1,4 @@
-package easysales.androidorm.Entity;
-
-import android.os.Parcelable;
+package com.easysales.androidorm.Entity;
 
 /**
  * Created by drmiller on 05.07.2016.

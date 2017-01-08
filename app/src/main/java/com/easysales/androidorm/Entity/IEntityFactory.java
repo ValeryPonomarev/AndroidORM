@@ -1,4 +1,4 @@
-package easysales.androidorm.Entity;
+package com.easysales.androidorm.Entity;
 
 import android.database.Cursor;
 
